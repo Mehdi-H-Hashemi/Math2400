@@ -18,4 +18,4 @@ This page contains links and other student-facing information for Math2400 activ
 3. [Driver reaction times](http://dtkaplan.shinyapps.io/Traffic_signs)
 4. [Data and diabetes](https://dtkaplan.shinyapps.io/Diabetes/)
 5. [Syllabus](Math_2400_10_Fall_2017.pdf)
-6. [Nice] (https://youtu.be/2eAuJIGlp9I)
+6. [Nice]()
