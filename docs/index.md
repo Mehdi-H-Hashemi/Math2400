@@ -3,9 +3,9 @@
 This is the main page for our course. You'll find the instructions at <http://github.com/mehdi-h-hashemi/Math2400>. 
 
 
-## Welcome to StatPREP. 
+## Welcome to Probability and Statistics with Calculus 
 
-This page contains links and other student-facing information for StatPREP activities.
+This page contains links and other student-facing information for Math2400 activities.
 
 > If you are a student looking for the web page for your own instructor's web site, you're not there. Check with your instructor to make sure that you have the right URL for your instructor's web site.
 
